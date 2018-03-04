@@ -1,6 +1,6 @@
 <?php
 
-print "hello word";
+print "olá Mundo";
 print "<hr>";
 
 ?>
