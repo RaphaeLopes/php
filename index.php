@@ -1,6 +1,5 @@
 <?php
 
-print "Olá Mundo!456";
+print "Olá Mundo";
 print "<hr>";
-print "Olá Umdey!";
 ?>
